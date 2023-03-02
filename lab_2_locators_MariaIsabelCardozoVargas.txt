@@ -1,0 +1,12 @@
+1. //div[contains(@class, 'wt-container')][1]/div/div[2]/a
+2. //div[contains(@class, 'wt-row wt-row_justify_between wt-row_size_m')][1]/div[2]/div/div/a
+3.//div[contains(@class, 'site-header-container')]/header/div/div/div[2]/div[1]/div/div/div/div[3]/a    
+4. 
+5. //section[contains(@class, 'wt-section wt-section_bg_white wt-section_theme_light section section_bg-dark')][2]/div/div/div[6]/a
+6. //div[contains(@class, 'comparison-card__inner')]/ul/li[6]/p
+7.//div[contains(@class, 'comparison-card__inner')][1]/div/span/button
+  //div[contains(@class, 'wt-col-6 wt-col-md-12 _card_1fwxbmz_6 _themeLight_1fwxbmz_40 _modeClassic_1fwxbmz_59 _paddings24_1fwxbmz_201 _bordersRadius8_1fwxbmz_213 _cardPlain_1fwxbmz_59 _withStaticBorder_1fwxbmz_43 wt-offset-top-32 comparison-card')][1]/div/div/span/button
+8.//div[contains(@class, 'wt-col-6 wt-col-md-12 _card_1fwxbmz_6 _themeLight_1fwxbmz_40 _modeClassic_1fwxbmz_59 _paddings24_1fwxbmz_201 _bordersRadius8_1fwxbmz_213 _cardPlain_1fwxbmz_59 _withStaticBorder_1fwxbmz_43 wt-offset-top-32 comparison-card')][2]/div/div/span/a
+9.//div/a[@href="/es-es/products/compare/?product=idea&product=idea-ce"]  
+10. 
+
