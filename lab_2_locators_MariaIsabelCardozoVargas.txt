@@ -13,16 +13,17 @@
 
 6. //div[contains(@class, 'comparison-card__inner')]/ul/li[6]/p
 
-7.1 //div[contains(@class, 'comparison-card__inner')][1]/div/span/button
+7 //div[contains(@class, 'comparison-card__inner')][1]/div/span/button
 
-7.2  //div[contains(@class, 'wt-col-6 wt-col-md-12 _card_1fwxbmz_6 _themeLight_1fwxbmz_40 _modeClassic_1fwxbmz_59 _paddings24_1fwxbmz_201 _bordersRadius8_1fwxbmz_213 _cardPlain_1fwxbmz_59 _withStaticBorder_1fwxbmz_43 wt-offset-top-32 comparison-card')][1]/div/div/span/button
+//div[contains(@class, 'wt-col-6 wt-col-md-12 _card_1fwxbmz_6 _themeLight_1fwxbmz_40 _modeClassic_1fwxbmz_59 _paddings24_1fwxbmz_201 _bordersRadius8_1fwxbmz_213 _cardPlain_1fwxbmz_59 _withStaticBorder_1fwxbmz_43 wt-offset-top-32 comparison-card')][1]/div/div/span/button
   
-8.1 //div[contains(@class, 'wt-col-6 wt-col-md-12 _card_1fwxbmz_6 _themeLight_1fwxbmz_40 _modeClassic_1fwxbmz_59 _paddings24_1fwxbmz_201 _bordersRadius8_1fwxbmz_213 _cardPlain_1fwxbmz_59 _withStaticBorder_1fwxbmz_43 wt-offset-top-32 comparison-card')][2]/div/div/span/a
+8 //div[contains(@class, 'wt-col-6 wt-col-md-12 _card_1fwxbmz_6 _themeLight_1fwxbmz_40 _modeClassic_1fwxbmz_59 _paddings24_1fwxbmz_201 _bordersRadius8_1fwxbmz_213 _cardPlain_1fwxbmz_59 _withStaticBorder_1fwxbmz_43 wt-offset-top-32 comparison-card')][2]/div/div/span/a
 
-8.2 //div[contains(@class, 'wt-col-6 wt-col-md-12 _card_1fwxbmz_6 _themeLight_1fwxbmz_40 _modeClassic_1fwxbmz_59 _paddings24_1fwxbmz_201 _bordersRadius8_1fwxbmz_213 _cardPlain_1fwxbmz_59 _withStaticBorder_1fwxbmz_43 wt-offset-top-32 comparison-card')][2]/div/div/span/a
+ //div[contains(@class, 'wt-col-6 wt-col-md-12 _card_1fwxbmz_6 _themeLight_1fwxbmz_40 _modeClassic_1fwxbmz_59 _paddings24_1fwxbmz_201 _bordersRadius8_1fwxbmz_213 _cardPlain_1fwxbmz_59 _withStaticBorder_1fwxbmz_43 wt-offset-top-32 comparison-card')][2]/div/div/span/a
 
 
 9.//div/a[@href="/es-es/products/compare/?product=idea&product=idea-ce"]  
+
 //section[contains(@class, 'wt-section wt-section_bg_white wt-section_theme_light comparison-section')]/div/a
 
 10. //*[@class="wt-privacy-notice__tooltip-content"]
