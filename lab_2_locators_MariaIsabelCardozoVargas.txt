@@ -1,10 +1,14 @@
-1. //div[contains(@class, 'wt-container')][1]/div/div[2]/a
+1. //a[@href="/es-es/"]
 
-2. //div[contains(@class, 'wt-row wt-row_justify_between wt-row_size_m')][1]/div[2]/div/div/a
+2. //*[@id="wt-site-header"]/div/div/div[2]/div[1]/div/nav/div[2]/button
+//button[contains(@aria-label,'Para equipos: Abrir submenú')]
 
-3.//div[contains(@class, 'site-header-container')]/header/div/div/div[2]/div[1]/div/div/div/div[3]/a   
+3.//div[contains(@class, 'site-header-container')]/header/div/div/div[2]/div[1]/div/div/div/div[3]/a
+//a[@data-test='site-header-cart-action']
 
-4. 
+4. //*[@id="js-menu-second-desktop"]//a[text()="Descargar"]
+//*[contains(@class,'wt-col-inline menu-second__download-button wt-button wt-button_size_s wt-button_mode_primary')]
+
 5. //section[contains(@class, 'wt-section wt-section_bg_white wt-section_theme_light section section_bg-dark')][2]/div/div/div[6]/a
 
 6. //div[contains(@class, 'comparison-card__inner')]/ul/li[6]/p
@@ -21,5 +25,5 @@
 9.//div/a[@href="/es-es/products/compare/?product=idea&product=idea-ce"]  
 //section[contains(@class, 'wt-section wt-section_bg_white wt-section_theme_light comparison-section')]/div/a
 
-10. 
+10. //*[@class="wt-privacy-notice__tooltip-content"]
 
